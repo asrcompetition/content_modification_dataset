@@ -36,7 +36,9 @@ If a document is not spam or keywordstuffed, it is considered as valid.
 We used 15 of ClueWeb09 queries which can be downloded here: http://trec.nist.gov/data/webmain.html. 
 
 # Citation
-  @inproceedings{DBLP:conf/sigir/RaiferRTK17,
+ If you use the ASRC dataset in your work, please cite it as:
+
+  @inproceedings{Gorenetal20,
   author    = {Gregory Goren and
                Oren Kurland and
                Moshe Tennenholtz and
@@ -49,6 +51,6 @@ We used 15 of ClueWeb09 queries which can be downloded here: http://trec.nist.go
   year      = {2020},
   crossref  = {DBLP:conf/sigir/2020},
   url       = {https://doi.org/10.1145/3397271.3401058},
-  doi       = {10.1145/3397271.3401058}
+  doi       = {10.1145/3397271.3401058},
 }
 
