@@ -2,8 +2,7 @@
 A dataset described in the paper "Ranking-Incentivized Quality Preserving Content Modification"
 
 # Data-set description
-The collection contains 315 documents, 
-15 initial relevant documents (round 0) and 300 documents (rounds 1-4) created by human authors and competing bots.
+The collection contains 300 documents (rounds 1-4) created by human authors and competing bots.
 
 Format: trectext.
 DOCNO Format: ROUND-<round_number>-<query_id>-<author_id>
