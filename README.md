@@ -32,6 +32,15 @@ A document is considered as spam if its content could not possibly satisfy any i
 
 If a document is not spam or keywordstuffed, it is considered as valid.
 
+# Positions
+The position in the ranked lists is found in the file "documents.positions".
+
+File format:
+
+qid 0 docno position
+
+position 1 is the highest ranked document.
+
 # Queries
 We used 15 of ClueWeb09 queries which can be downloded here: http://trec.nist.gov/data/webmain.html. 
 
@@ -47,7 +56,7 @@ We used 15 of ClueWeb09 queries which can be downloded here: http://trec.nist.go
   booktitle = {Proceedings of the 43th International {ACM} {SIGIR} Conference on
                Research and Development in Information Retrieval, Virtual Event,
                China, July 25-30, 2020},
-  pages     = {TBD},
+  pages     = {259-268},
   year      = {2020},
   crossref  = {DBLP:conf/sigir/2020},
   url       = {https://doi.org/10.1145/3397271.3401058},
