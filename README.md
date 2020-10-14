@@ -7,6 +7,7 @@ The collection contains 300 documents (rounds 1-4) created by human authors and 
 Format: trectext.
 DOCNO Format: ROUND-<round_number>-<query_id>-<author_id>
 
+Docno's of round 0 are the initial documents given to the students.
 Planted document have author_id of DUMMY_{1,2}.
 Model's documents have author_id of BOT.
 
