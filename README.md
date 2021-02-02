@@ -44,6 +44,9 @@ position 1 is the highest ranked document.
 # Queries
 We used 15 of ClueWeb09 queries which can be downloded here: http://trec.nist.gov/data/webmain.html. 
 
+# Controlled experiment
+Additional data for a controlled experiment we conducted with a slightly modified ranker.
+
 # Citation
  If you use the ASRC dataset in your work, please cite it as:
 
@@ -62,4 +65,5 @@ We used 15 of ClueWeb09 queries which can be downloded here: http://trec.nist.go
   url       = {https://doi.org/10.1145/3397271.3401058},
   doi       = {10.1145/3397271.3401058},
 }
+
 
